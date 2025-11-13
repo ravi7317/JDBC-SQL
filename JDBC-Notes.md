@@ -261,4 +261,3 @@ ps.setString(1, userInput);
 
 ---
 
-Would you like me to make this into a **well-formatted PDF for revision** (with headings, syntax boxes, and diagrams of JDBC architecture)?
